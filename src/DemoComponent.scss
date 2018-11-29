@@ -26,6 +26,11 @@
   padding: 0.5rem;
   border-radius: 5px;
 
+  > span {
+    display: inline-flex;
+    align-items: center;
+  }
+
   > a {
     margin-left: auto;
     text-decoration: none;
